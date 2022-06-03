@@ -1,1 +1,7 @@
-
+{
+  "HubStatus": {
+    "ExchangeHub": "Online",
+    "ExchangeLoader": "Online,
+    "ExchangeVersion": "V1"
+  }
+}
