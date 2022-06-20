@@ -17,4 +17,4 @@ If everything checks out then it will execute the actual script hub.
 All the creators have their information on a pane.
 To see this information you can hover over any script and it will show you the name of the creator and a discord if provided.
 
-The 'Launcher' & 'Hub' are heavily inspired by [EzHub, EzLauncher]. Their design looked very simple and clean so I recreated it to my best ability.
+The 'Launcher' & 'Hub' are heavily inspired by [EzHub, EzLauncher](https://github.com/debug420/Ez-Hub). Their design looked very simple and clean so I recreated it to my best ability.
